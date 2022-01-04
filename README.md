@@ -16,3 +16,5 @@
 - 💻 &nbsp; Python | Golang 
 - 🌐 &nbsp; Django | Flask | Gin | Grpc-gateway
 - 🛢 &nbsp; MySQL | Redis 
+
+@ossdao-org•AIRDROP-0xA675eCe8083d3599B751e42Cb70f753200DC1E31
